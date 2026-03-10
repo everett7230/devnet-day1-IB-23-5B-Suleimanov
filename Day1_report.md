@@ -48,7 +48,7 @@ python src/day1_api_hello.py
     "platform": "linux"
   }
 }
-
+```
 
 ##6.  Что я изучил сегодня (3–6 bullets)
 
