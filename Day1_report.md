@@ -48,3 +48,39 @@ python src/day1_api_hello.py
     "platform": "linux"
   }
 }
+
+
+## 6. Что я изучил сегодня (3–6 bullets)
+
+ Научился запускать и работать в DEVASC VM через VirtualBox.
+ Научился создавать репозиторий на GitHub и работать с Git.
+ Научился создавать и использовать виртуальное окружение Python (venv).
+ Научился отправлять HTTP GET запрос к API с помощью библиотеки requests.
+ Научился сохранять ответ API в JSON и считать SHA256.
+ Научился запускать тесты с помощью pytest.
+
+## 7. Проблемы и решения
+
+- Problem:
+Во время выполнения скрипта появилась ошибка.
+- Fix:
+
+
+Я исправил код и после этого скрипт начал работать.
+python src/day1_api_hello.py
+Traceback (most recent call last):
+  File "src/day1_api_hello.py", line 74, in <module>
+    def fetch_online(url: str, timeout: int = 10) -> tuple[int, dict]:
+TypeError: 'type' object is not subscriptable
+Также была проблема с подключением и с содержанием env
+Все было успешно исправлено с помощью корректной правки и проверкой 
+- Proof:
+Скрипт успешно запускается командой:
+python src/day1_api_hello.py
+результат проверки выше
+
+Тесты проходят командой:
+pytest -q
+
+Также была ошибка с загрузкой файлов на репозиторий в гит
+Успешно починил с помощью PAT ключа 
