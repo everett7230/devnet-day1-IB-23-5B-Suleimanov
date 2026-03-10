@@ -70,11 +70,11 @@ python src/day1_api_hello.py
 - Proof:
 Скрипт успешно запускается командой:
 
-python src/day1_api_hello.py
+`python src/day1_api_hello.py`
 
 Тесты проходят командой:
 
-pytest -q
+`pytest -q`
 
 Также была ошибка с загрузкой файлов в GitHub, которая была исправлена с помощью PAT-ключа.
 
