@@ -28,7 +28,6 @@ Conflict note:
 ## 5) Commands output (paste EXACT output)
 
 ### 5.1 Generator
-python src/day2_data_formats.py --input artifacts/day1/response.json
 
 ```text
 python src/day2_data_formats.py --input artifacts/day1/response.json
