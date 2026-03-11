@@ -1,5 +1,21 @@
-* 71025aa (HEAD -> main) generate day2 artifacts
-* 2e62515 (origin/main, origin/HEAD) update Day1 report
+*   530f061 (HEAD -> main, origin/main, origin/HEAD) Resolve README conflict (Day2)
+|\  
+| * 111471a (origin/feature/day2-readme-B, feature/day2-readme-B) update README B
+* |   ae5e757 Merge branch 'feature/day2-readme-A' into main
+|\ \  
+| * | 2cfcb75 (origin/feature/day2-readme-A, feature/day2-readme-A) update README A
+| * | fc468ac (origin/feature/day2-dataformats, feature/day2-dataformats) add PR link
+* | | cae82be Merge pull request #1 from everett7230/feature/day2-dataformats
+|\| | 
+| * | 869f60e add day2 data formats script
+| |/  
+| * 71025aa generate day2 artifacts
+* | 7e7c359 Update student group in Day 1 report
+* | d8d2595 Update Day1_report.md
+* | e342c7c Update Day1_report.md
+* | af34d4c Update Day1_report.md
+|/  
+* 2e62515 update Day1 report
 * 35e09c1 update day1 report
 * 261ba84 Remove learning and problem sections from report
 * cde0d4c Update Day1_report with learnings and problem solutions
