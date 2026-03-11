@@ -30,6 +30,9 @@ Conflict note:
 ### 5.1 Generator
 python src/day2_data_formats.py --input artifacts/day1/response.json
 
+```text
+python src/day2_data_formats.py --input artifacts/day1/response.json
+
 {
   "schema_version": "2.0",
   "generated_utc": "2026-03-11T09:59:03.039349+00:00",
@@ -43,9 +46,10 @@ python src/day2_data_formats.py --input artifacts/day1/response.json
     "title_len": 18
   }
 }
+```
 
 ### 5.2 Tests
-pytest -q
+```pytest -q```
 
 .
 1 passed in 0.22s
