@@ -1,0 +1,7 @@
+* 71025aa (HEAD -> main) generate day2 artifacts
+* 2e62515 (origin/main, origin/HEAD) update Day1 report
+* 35e09c1 update day1 report
+* 261ba84 Remove learning and problem sections from report
+* cde0d4c Update Day1_report with learnings and problem solutions
+* aeee6ff add day1 files and artifacts
+* d029520 Initial commit

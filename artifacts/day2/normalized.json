@@ -1,0 +1,17 @@
+{
+  "computed": {
+    "title_len": 18
+  },
+  "student": {
+    "group": "ИБ-23-5б",
+    "name": "Сулейманов Тимур",
+    "token": "D1-IB23-5b-21-FA14",
+    "token_hash8": "935cc981"
+  },
+  "todo": {
+    "completed": false,
+    "id": 1,
+    "title": "delectus aut autem",
+    "userId": 1
+  }
+}
