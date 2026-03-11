@@ -2,7 +2,7 @@
 
 ## 1. Student
 - Name: Сулейманов Тимур
-- Group: ИБ-22-3б
+- Group: ИБ-23-5б
 - GitHub repo: https://github.com/everett7230/devnet-day1-IB-23-5B-Suleimanov.git
 - Day1 Token: D1-IB-23-5b-21-FA14
 
