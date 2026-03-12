@@ -1,0 +1,45 @@
+{
+  "added_fail": 0,
+  "added_ok": 100,
+  "api_key_sha256": "880c86e18aadd1470bfc7bba9a1aa77c1132482b5617537d779eb627d1250dc5",
+  "author_used": "Сулейманов Тимур",
+  "count_requested": 100,
+  "generated_utc": "2026-03-12T16:14:14.738614+00:00",
+  "id_range": [
+    6000,
+    6099
+  ],
+  "sample_books": [
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6000,
+      "isbn": "978-1-185-60690-4",
+      "title": "Digitized upward-trending open architecture [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6001,
+      "isbn": "978-0-386-54862-4",
+      "title": "Secured eco-centric synergy [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6002,
+      "isbn": "978-0-03-447901-0",
+      "title": "Polarized content-based architecture [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6003,
+      "isbn": "978-0-650-04490-6",
+      "title": "Reactive client-driven throughput [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6004,
+      "isbn": "978-0-7801-0815-8",
+      "title": "Digitized bandwidth-monitored data-warehouse [935cc981]"
+    }
+  ],
+  "tag": "935cc981"
+}

@@ -1,0 +1,66 @@
+{
+  "count": 10,
+  "items": [
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "isbn": "000-0000000123",
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "isbn": "000-0000001123",
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "Mark A. Sportack",
+      "id": 0,
+      "isbn": "978-1578700714",
+      "title": "IP Routing Fundamentals"
+    },
+    {
+      "author": "Stef Maruch Aahz Maruch",
+      "id": 1,
+      "isbn": "978-0471778646",
+      "title": "Python for Dummies"
+    },
+    {
+      "author": "Timur",
+      "id": 9001,
+      "isbn": "9781111111111",
+      "title": "My DevNet Book"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 5000,
+      "isbn": "978-00935cc981",
+      "title": "My DevNet Book 935cc981"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6000,
+      "isbn": "978-0-216-20648-9",
+      "title": "Intuitive zero-defect protocol [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6001,
+      "isbn": "978-1-368-97957-3",
+      "title": "Cross-platform context-sensitive paradigm [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6002,
+      "isbn": "978-0-532-09233-9",
+      "title": "Object-based neutral Local Area Network [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6003,
+      "isbn": "978-1-64882-460-9",
+      "title": "Visionary logistical throughput [935cc981]"
+    }
+  ],
+  "status_code": 200
+}

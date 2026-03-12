@@ -1,0 +1,36 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "author": "Сулейманов Тимур",
+      "id": 5000,
+      "isbn": "978-00935cc981",
+      "title": "My DevNet Book 935cc981"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6000,
+      "isbn": "978-1-185-60690-4",
+      "title": "Digitized upward-trending open architecture [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6001,
+      "isbn": "978-0-386-54862-4",
+      "title": "Secured eco-centric synergy [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6002,
+      "isbn": "978-0-03-447901-0",
+      "title": "Polarized content-based architecture [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6003,
+      "isbn": "978-0-650-04490-6",
+      "title": "Reactive client-driven throughput [935cc981]"
+    }
+  ],
+  "status_code": 200
+}
