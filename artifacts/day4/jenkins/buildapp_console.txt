@@ -1,0 +1,5 @@
+Started by user admin
+
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/BuildAppJob
+Finished: SUCCESS

@@ -1,0 +1,24 @@
+Sending build context to Docker daemon  46.29MB
+Step 1/7 : FROM python:3.11-slim
+ ---> 7c68b5683872
+Step 2/7 : WORKDIR /app
+ ---> Using cache
+ ---> 79b76d1b15f7
+Step 3/7 : COPY requirements.txt .
+ ---> Using cache
+ ---> 567068231bcd
+Step 4/7 : RUN python -m pip install --no-cache-dir --progress-bar off -r requirements.txt
+ ---> Using cache
+ ---> a1686cb1e312
+Step 5/7 : COPY app.py .
+ ---> 324ae6d4a9c3
+Step 6/7 : EXPOSE 8080
+ ---> Running in 395a8c8eae0b
+Removing intermediate container 395a8c8eae0b
+ ---> 7caf608a7648
+Step 7/7 : CMD ["python", "app.py"]
+ ---> Running in 2b439cb4d2fb
+Removing intermediate container 2b439cb4d2fb
+ ---> 295028d9feed
+Successfully built 295028d9feed
+Successfully tagged sampleapp:day4

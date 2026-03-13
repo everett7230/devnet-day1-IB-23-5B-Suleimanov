@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "author": "Сулейманов Тимур",
@@ -10,26 +10,32 @@
     {
       "author": "Сулейманов Тимур",
       "id": 6000,
-      "isbn": "978-1-185-60690-4",
-      "title": "Digitized upward-trending open architecture [935cc981]"
+      "isbn": "978-1-56775-038-6",
+      "title": "Automated didactic application [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6001,
-      "isbn": "978-0-386-54862-4",
-      "title": "Secured eco-centric synergy [935cc981]"
+      "isbn": "978-0-627-13646-7",
+      "title": "Fully-configurable dedicated software [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6002,
-      "isbn": "978-0-03-447901-0",
-      "title": "Polarized content-based architecture [935cc981]"
+      "isbn": "978-0-445-64459-5",
+      "title": "Upgradable analyzing task-force [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6003,
-      "isbn": "978-0-650-04490-6",
-      "title": "Reactive client-driven throughput [935cc981]"
+      "isbn": "978-1-9764-1390-2",
+      "title": "Devolved methodical Internet solution [935cc981]"
+    },
+    {
+      "author": "Сулейманов Тимур",
+      "id": 6004,
+      "isbn": "978-1-67945-061-7",
+      "title": "Versatile radical definition [935cc981]"
     }
   ],
   "status_code": 200

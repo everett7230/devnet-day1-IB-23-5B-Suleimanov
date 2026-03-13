@@ -1,0 +1,14 @@
+Started by user admin
+
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/SamplePipeline
+[SamplePipeline] $ /bin/sh -xe /tmp/jenkins9250744794267868082.sh
++ echo Preparation stage
+Preparation stage
++ echo Build stage
+Build stage
++ echo Results stage
+Results stage
++ echo Pipeline finished
+Pipeline finished
+Finished: SUCCESS

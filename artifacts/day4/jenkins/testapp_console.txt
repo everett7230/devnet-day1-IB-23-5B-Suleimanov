@@ -1,0 +1,13 @@
+Started by user admin
+
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/TestAppJob
+[TestAppJob] $ /bin/sh -xe /tmp/jenkins15640179365701007799.sh
++ echo Running tests...
+Running tests...
++ pytest -q
+/tmp/jenkins15640179365701007799.sh: 3: pytest: not found
++ true
++ echo Tests finished
+Tests finished
+Finished: SUCCESS

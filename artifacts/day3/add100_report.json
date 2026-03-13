@@ -1,10 +1,10 @@
 {
   "added_fail": 0,
   "added_ok": 100,
-  "api_key_sha256": "880c86e18aadd1470bfc7bba9a1aa77c1132482b5617537d779eb627d1250dc5",
+  "api_key_sha256": "dcdc802983dec508a588e392c27431718bdefb359c377f121c00e8e202a77ec0",
   "author_used": "Сулейманов Тимур",
   "count_requested": 100,
-  "generated_utc": "2026-03-12T16:14:14.738614+00:00",
+  "generated_utc": "2026-03-12T17:17:01.781335+00:00",
   "id_range": [
     6000,
     6099
@@ -13,32 +13,32 @@
     {
       "author": "Сулейманов Тимур",
       "id": 6000,
-      "isbn": "978-1-185-60690-4",
-      "title": "Digitized upward-trending open architecture [935cc981]"
+      "isbn": "978-1-56775-038-6",
+      "title": "Automated didactic application [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6001,
-      "isbn": "978-0-386-54862-4",
-      "title": "Secured eco-centric synergy [935cc981]"
+      "isbn": "978-0-627-13646-7",
+      "title": "Fully-configurable dedicated software [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6002,
-      "isbn": "978-0-03-447901-0",
-      "title": "Polarized content-based architecture [935cc981]"
+      "isbn": "978-0-445-64459-5",
+      "title": "Upgradable analyzing task-force [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6003,
-      "isbn": "978-0-650-04490-6",
-      "title": "Reactive client-driven throughput [935cc981]"
+      "isbn": "978-1-9764-1390-2",
+      "title": "Devolved methodical Internet solution [935cc981]"
     },
     {
       "author": "Сулейманов Тимур",
       "id": 6004,
-      "isbn": "978-0-7801-0815-8",
-      "title": "Digitized bandwidth-monitored data-warehouse [935cc981]"
+      "isbn": "978-1-67945-061-7",
+      "title": "Versatile radical definition [935cc981]"
     }
   ],
   "tag": "935cc981"

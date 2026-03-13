@@ -1,5 +1,5 @@
 {
-  "api_key_sha256": "880c86e18aadd1470bfc7bba9a1aa77c1132482b5617537d779eb627d1250dc5",
+  "api_key_sha256": "dcdc802983dec508a588e392c27431718bdefb359c377f121c00e8e202a77ec0",
   "request": {
     "author": "Сулейманов Тимур",
     "id": 5000,
@@ -7,9 +7,9 @@
     "title": "My DevNet Book 935cc981"
   },
   "response": {
-    "author": null,
-    "id": null,
-    "title": null
+    "author": "Сулейманов Тимур",
+    "id": 5000,
+    "title": "My DevNet Book 935cc981"
   },
   "status_code": 200
 }
