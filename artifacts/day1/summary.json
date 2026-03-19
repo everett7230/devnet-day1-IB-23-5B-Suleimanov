@@ -6,15 +6,15 @@
     "validation_errors": [],
     "validation_passed": true
   },
-  "generated_utc": "2026-03-13T10:15:18.003500+00:00",
+  "generated_utc": "2026-03-19T23:35:27.800282+00:00",
   "run": {
     "platform": "linux",
     "python": "3.8.2"
   },
   "schema_version": "1.0",
   "student": {
-    "group": "ИБ-23-5б",
-    "name": "Сулейманов Тимур",
-    "token": "D1-IB23-5b-21-FA14"
+    "group": "ИБ-23-5Б",
+    "name": "Тимур",
+    "token": "D1-IB-23-5b-21-FA14"
   }
 }

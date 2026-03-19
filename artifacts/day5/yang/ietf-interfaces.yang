@@ -1,0 +1,19 @@
+module ietf-interfaces {
+  yang-version 1.1;
+  namespace "urn:ietf:params:xml:ns:yang:ietf-interfaces";
+  prefix if;
+
+  container interfaces {
+    list interface {
+      key "name";
+
+      leaf name {
+        type string;
+      }
+
+      leaf enabled {
+        type boolean;
+      }
+    }
+  }
+}

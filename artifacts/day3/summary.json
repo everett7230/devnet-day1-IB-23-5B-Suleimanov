@@ -1,17 +1,17 @@
 {
   "artifacts_sha256": {
-    "add100_report": "93db862eb191e2f05f706577c871a606b78086e86a0055c5aaa0a351fa35571a",
-    "books_before": "e9d34fda886ea13e48f880ed70831f5548107833a76bb9f8888b88bb5c979458",
-    "books_by_me": "05357496d061f41eb8222c70da67341f46fe8d955144fdf23c193f5b55377141",
-    "books_sorted_isbn": "93934547f1e3d0d592639533661497ca2eb6a8b60073b0bfd7fecc086edf0d6b",
+    "add100_report": "71a23187cb18c15f9cb475fed692a9262da01adfb835c34240ecc22c187b7738",
+    "books_before": "294c39a7326ee876e17a23a05cf9d02e1155493ec2789cde68b2f6da6c192ff2",
+    "books_by_me": "fbcdd00c592de972c6716da561b0ffaefc7daeae37f26af766fc3948239bb1cf",
+    "books_sorted_isbn": "75ebb101715b7f4f3a72f1fd610cd419f3d90bebc662f8b6dfd03b05cecd6062",
     "curl_get_books": "398021a314dd5db8b544000199104b769a7afcc63fa3cfa531f306c36cc49518",
     "curl_get_books_isbn": "2ec02f0cfbf0e06b9b7254807dc91362f08663528bb8290ca45092798b81f9bd",
     "curl_get_books_sorted": "d628b2e92e81dcc32d34656bfc85ce21b15435096b7f8064423ba37b96568e50",
-    "mybook_post": "60321524127a846f25fb803aefffe1b56cee912ac89befb0a68ba68736e1ef53",
+    "mybook_post": "2d840a3b48743a7121493c9c4a0b9a59f864e85e8c9ca555ef2c36f260214aa0",
     "postman_collection": "0304093b71dd9acdc4b0398123efaec14b60aeb86e4e2626ea3633c05d13b506",
     "postman_environment": "21ff9a78a289a7c313d1db40795ede7b6320d959fd56981a2e3855e2d5bbef7f"
   },
-  "generated_utc": "2026-03-13T10:15:18.198797+00:00",
+  "generated_utc": "2026-03-19T23:35:28.019006+00:00",
   "lab": {
     "apihost": "http://library.demo.local",
     "must_use": {
@@ -22,10 +22,10 @@
   },
   "schema_version": "3.1",
   "student": {
-    "group": "ИБ-23-5б",
-    "name": "Сулейманов Тимур",
-    "token": "D1-IB23-5b-21-FA14",
-    "token_hash8": "935cc981"
+    "group": "ИБ-23-5Б",
+    "name": "Тимур",
+    "token": "D1-IB-23-5b-21-FA14",
+    "token_hash8": "53f612b1"
   },
   "validation": {
     "must_have_added_100": true,

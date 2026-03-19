@@ -1,45 +1,45 @@
 {
   "added_fail": 0,
   "added_ok": 100,
-  "api_key_sha256": "dcdc802983dec508a588e392c27431718bdefb359c377f121c00e8e202a77ec0",
-  "author_used": "Сулейманов Тимур",
+  "api_key_sha256": "38d28cc5a477bea2c20d03f6c4e069edfff0ede61441bfff89e9b17630acd197",
+  "author_used": "Тимур",
   "count_requested": 100,
-  "generated_utc": "2026-03-12T17:17:01.781335+00:00",
+  "generated_utc": "2026-03-19T23:27:18.247587+00:00",
   "id_range": [
-    6000,
-    6099
+    10200,
+    10299
   ],
   "sample_books": [
     {
-      "author": "Сулейманов Тимур",
-      "id": 6000,
-      "isbn": "978-1-56775-038-6",
-      "title": "Automated didactic application [935cc981]"
+      "author": "Тимур",
+      "id": 10200,
+      "isbn": "978-1-142-27986-8",
+      "title": "Quality-focused intermediate hierarchy [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6001,
-      "isbn": "978-0-627-13646-7",
-      "title": "Fully-configurable dedicated software [935cc981]"
+      "author": "Тимур",
+      "id": 10201,
+      "isbn": "978-1-968806-02-6",
+      "title": "Monitored contextually-based productivity [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6002,
-      "isbn": "978-0-445-64459-5",
-      "title": "Upgradable analyzing task-force [935cc981]"
+      "author": "Тимур",
+      "id": 10202,
+      "isbn": "978-0-233-16201-0",
+      "title": "Fundamental zero administration portal [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6003,
-      "isbn": "978-1-9764-1390-2",
-      "title": "Devolved methodical Internet solution [935cc981]"
+      "author": "Тимур",
+      "id": 10203,
+      "isbn": "978-1-361-48351-0",
+      "title": "Cloned encompassing frame [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6004,
-      "isbn": "978-1-67945-061-7",
-      "title": "Versatile radical definition [935cc981]"
+      "author": "Тимур",
+      "id": 10204,
+      "isbn": "978-0-585-15382-7",
+      "title": "Function-based demand-driven application [53f612b1]"
     }
   ],
-  "tag": "935cc981"
+  "tag": "53f612b1"
 }

@@ -2,40 +2,40 @@
   "count": 6,
   "items": [
     {
-      "author": "Сулейманов Тимур",
-      "id": 5000,
-      "isbn": "978-00935cc981",
-      "title": "My DevNet Book 935cc981"
+      "author": "Тимур",
+      "id": 5021,
+      "isbn": "978-2153f612b1",
+      "title": "My DevNet Book 53f612b1"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6000,
-      "isbn": "978-1-56775-038-6",
-      "title": "Automated didactic application [935cc981]"
+      "author": "Тимур",
+      "id": 10200,
+      "isbn": "978-1-142-27986-8",
+      "title": "Quality-focused intermediate hierarchy [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6001,
-      "isbn": "978-0-627-13646-7",
-      "title": "Fully-configurable dedicated software [935cc981]"
+      "author": "Тимур",
+      "id": 10201,
+      "isbn": "978-1-968806-02-6",
+      "title": "Monitored contextually-based productivity [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6002,
-      "isbn": "978-0-445-64459-5",
-      "title": "Upgradable analyzing task-force [935cc981]"
+      "author": "Тимур",
+      "id": 10202,
+      "isbn": "978-0-233-16201-0",
+      "title": "Fundamental zero administration portal [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6003,
-      "isbn": "978-1-9764-1390-2",
-      "title": "Devolved methodical Internet solution [935cc981]"
+      "author": "Тимур",
+      "id": 10203,
+      "isbn": "978-1-361-48351-0",
+      "title": "Cloned encompassing frame [53f612b1]"
     },
     {
-      "author": "Сулейманов Тимур",
-      "id": 6004,
-      "isbn": "978-1-67945-061-7",
-      "title": "Versatile radical definition [935cc981]"
+      "author": "Тимур",
+      "id": 10204,
+      "isbn": "978-0-585-15382-7",
+      "title": "Function-based demand-driven application [53f612b1]"
     }
   ],
   "status_code": 200

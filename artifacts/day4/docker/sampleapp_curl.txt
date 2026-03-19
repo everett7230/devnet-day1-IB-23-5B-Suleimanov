@@ -2,6 +2,6 @@
 <html>
   <body>
     <h1>Sample App Day 4</h1>
-    <p>TOKEN_HASH8=935cc981</p>
+    <p>TOKEN_HASH8=53f612b1</p>
   </body>
 </html>
