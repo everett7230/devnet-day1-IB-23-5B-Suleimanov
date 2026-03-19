@@ -1,10 +1,10 @@
 {
   "added_fail": 0,
   "added_ok": 100,
-  "api_key_sha256": "38d28cc5a477bea2c20d03f6c4e069edfff0ede61441bfff89e9b17630acd197",
+  "api_key_sha256": "6705893f47e7736dc0b87a63999f5a238b19cded80067b94afaff5685a16b993",
   "author_used": "Тимур",
   "count_requested": 100,
-  "generated_utc": "2026-03-19T23:27:18.247587+00:00",
+  "generated_utc": "2026-03-19T23:49:29.549925+00:00",
   "id_range": [
     10200,
     10299
@@ -13,32 +13,32 @@
     {
       "author": "Тимур",
       "id": 10200,
-      "isbn": "978-1-142-27986-8",
-      "title": "Quality-focused intermediate hierarchy [53f612b1]"
+      "isbn": "978-0-16-053607-6",
+      "title": "Realigned high-level system engine [53f612b1]"
     },
     {
       "author": "Тимур",
       "id": 10201,
-      "isbn": "978-1-968806-02-6",
-      "title": "Monitored contextually-based productivity [53f612b1]"
+      "isbn": "978-1-5499-8732-8",
+      "title": "Progressive well-modulated adapter [53f612b1]"
     },
     {
       "author": "Тимур",
       "id": 10202,
-      "isbn": "978-0-233-16201-0",
-      "title": "Fundamental zero administration portal [53f612b1]"
+      "isbn": "978-0-549-30794-5",
+      "title": "Expanded stable help-desk [53f612b1]"
     },
     {
       "author": "Тимур",
       "id": 10203,
-      "isbn": "978-1-361-48351-0",
-      "title": "Cloned encompassing frame [53f612b1]"
+      "isbn": "978-0-576-07626-5",
+      "title": "Monitored non-volatile database [53f612b1]"
     },
     {
       "author": "Тимур",
       "id": 10204,
-      "isbn": "978-0-585-15382-7",
-      "title": "Function-based demand-driven application [53f612b1]"
+      "isbn": "978-0-271-77995-9",
+      "title": "Devolved bottom-line success [53f612b1]"
     }
   ],
   "tag": "53f612b1"
