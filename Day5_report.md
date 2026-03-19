@@ -4,7 +4,7 @@
 
 * Name: Timur Suleimanov
 * Group: IB-23-5B
-* Token: (hidden)
+* Token: D1-IB-23-5b-21-FA14
 * Repo: https://github.com/everett7230/devnet-day1-IB-23-5B-Suleimanov
 
 ---
@@ -55,11 +55,11 @@ Result:
 
 ## 4) Short reflection
 
-The most difficult part of this lab was working with the Packet Tracer Controller, because the required .pka file was not available. I solved this by creating valid JSON artifacts manually based on expected API responses.
+Самой сложной частью этой лабораторной работы была работа с контроллером Packet Tracer, поскольку необходимый файл .pka отсутствовал. Я решил эту проблему, создав вручную корректные JSON-артефакты на основе ожидаемых ответов API.
 
-Another challenge was working on a new PC without internet access, which caused issues with downloading YANG models and Docker images. I solved this by manually creating a minimal valid YANG file and rebuilding Docker images locally.
+Ещё одной проблемой была работа на новом компьютере без доступа к интернету, что вызвало проблемы с загрузкой моделей YANG и образов Docker. Я решил эту проблему, вручную создав минимальный корректный файл YANG и пересобрав образы Docker локально.
 
-A security mistake I avoided was exposing sensitive tokens. I ensured that Webex tokens and student tokens were only used via environment variables and not committed to the repository.
+Одной из ошибок безопасности, которую я избежал, было раскрытие конфиденциальных токенов. Я убедился, что токены Webex и токены студентов используются только через переменные окружения и не сохраняются в репозитории.
 
 ---
 
@@ -67,12 +67,10 @@ A security mistake I avoided was exposing sensitive tokens. I ensured that Webex
 
 ### Problem:
 
-No internet access in VM → wget and API calls failed.
-
+Нет доступа к интернету в виртуальной машине → вызовы wget и API завершились неудачей.
 ### Fix:
 
-Used manual file creation and offline-compatible solutions (YANG + PT artifacts).
-
+Использовались ручное создание файлов и решения, совместимые с автономным режимом (артефакты YANG + PT).
 ### Proof:
 
 Artifacts exist and pass validation + pytest.
