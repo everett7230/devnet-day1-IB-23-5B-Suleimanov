@@ -11,7 +11,7 @@
     "postman_collection": "0304093b71dd9acdc4b0398123efaec14b60aeb86e4e2626ea3633c05d13b506",
     "postman_environment": "21ff9a78a289a7c313d1db40795ede7b6320d959fd56981a2e3855e2d5bbef7f"
   },
-  "generated_utc": "2026-03-19T23:49:49.484125+00:00",
+  "generated_utc": "2026-03-20T22:30:36.140863+00:00",
   "lab": {
     "apihost": "http://library.demo.local",
     "must_use": {
@@ -22,7 +22,7 @@
   },
   "schema_version": "3.1",
   "student": {
-    "group": "ИБ-23-5Б",
+    "group": "IB-23-5b",
     "name": "Тимур",
     "token": "D1-IB-23-5b-21-FA14",
     "token_hash8": "53f612b1"

@@ -2,20 +2,20 @@
   "computed": {
     "title_len": 18
   },
-  "generated_utc": "2026-03-19T23:49:49.329609+00:00",
+  "generated_utc": "2026-03-20T22:30:35.830521+00:00",
   "input": {
     "path": "artifacts/day1/response.json",
     "sha256": "ffefdf50d54770c2a20ba143e42daa910535c20ec5ca7a1e449dac71729f00fe"
   },
   "outputs": {
-    "normalized_csv_sha256": "9a1a3a209b8039c86b5d5453cf5a6b86df60d7838e999516cf1c2f9ddd2acf70",
-    "normalized_json_sha256": "c0cf727ba4fa4dacf3b9832f5d5fecfd1701e9f3e03fabdacfb494c4675de90d",
-    "normalized_xml_sha256": "33b3e20f37709061e94cd4b40be4a3b801d2c92c6cefdeb37c9ca80051c4f9c6",
-    "normalized_yaml_sha256": "8323939049439d9ac2728268f6dfe6fe21d83b271fc046493608d790a0483ee5"
+    "normalized_csv_sha256": "b8b7822d791c7768ed43162cd1bd3d80c73063491b9b0090c33065e83e640058",
+    "normalized_json_sha256": "7aae8bc58eae9f01292fb7cdd3106bfb415d59a0d006b7514d11b85012e00cca",
+    "normalized_xml_sha256": "63582bd364a0cc57fa11312f4eae31c07a040dd4785a7f0b87f3f1f1de2639c4",
+    "normalized_yaml_sha256": "04012f4a4c9517c7651ec1585bb02c0bf3f721c857e14c9075e06a7f4487a068"
   },
   "schema_version": "2.0",
   "student": {
-    "group": "ИБ-23-5Б",
+    "group": "IB-23-5b",
     "name": "Тимур",
     "token": "D1-IB-23-5b-21-FA14",
     "token_hash8": "53f612b1"
